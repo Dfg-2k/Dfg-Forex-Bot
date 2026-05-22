@@ -6,10 +6,10 @@ from datetime import datetime
 # ==============================
 # KONFIGIRASYON - CHANJE SA YO
 # ==============================
-OANDA_API_KEY = "METE_API_KEY_OU_ICI"
+OANDA_API_KEY = "353e83be8ae9655c784b560fc670e1cb-d35dda7811f2df45903802d9ce898028"
 OANDA_ACCOUNT_ID = "001-001-21518859-001"
-TELEGRAM_TOKEN = "METE_TOKEN_OU_ICI"
-CHAT_ID = "METE_CHAT_ID_OU_ICI"
+TELEGRAM_TOKEN = "AAFd16asNJQmUoFuufzZDnQeF3-csYlQG1I"
+CHAT_ID = "7984374660"
 
 # OANDA API URLs (Demo)
 OANDA_URL = "https://api-fxtrade.oanda.com/v3"
